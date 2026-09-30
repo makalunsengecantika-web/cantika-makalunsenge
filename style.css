@@ -1,0 +1,49 @@
+body {
+  font-family: Arial;
+  background-color: lightgray;
+}
+
+header {
+  background-color: steelblue;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  margin: 10px;
+}
+
+section {
+  background-color: white;
+  width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+h2 {
+  color: steelblue;
+}
+
+#profil {
+  text-align: center;
+}
+
+.foto {
+  width: 120px;
+  height: 150px;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  border: 1px solid gray;
+  padding: 5px;
+}
+
+footer {
+  text-align: center;
+}
